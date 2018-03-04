@@ -1,2 +1,3 @@
-# first-draft
-Creating the first draft of team 28
+#Elegant Solutions
+Team 28
+This project is about hair salons 
